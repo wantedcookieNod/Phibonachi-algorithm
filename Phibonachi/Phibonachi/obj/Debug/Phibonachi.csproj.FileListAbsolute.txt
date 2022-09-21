@@ -1,0 +1,19 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Phibonachi\Phibonachi\bin\Debug\Phibonachi.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Phibonachi\Phibonachi\bin\Debug\Phibonachi.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Phibonachi\Phibonachi\bin\Debug\Phibonachi.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Phibonachi\Phibonachi\obj\Debug\Phibonachi.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Phibonachi\Phibonachi\obj\Debug\Phibonachi.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Phibonachi\Phibonachi\obj\Debug\Phibonachi.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Phibonachi\Phibonachi\obj\Debug\Phibonachi.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Phibonachi\Phibonachi\obj\Debug\Phibonachi.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Phibonachi\Phibonachi\obj\Debug\Phibonachi.pdb
+F:\My codes\Phibonachi\Phibonachi\bin\Debug\Phibonachi.exe.config
+F:\My codes\Phibonachi\Phibonachi\bin\Debug\Phibonachi.exe
+F:\My codes\Phibonachi\Phibonachi\bin\Debug\Phibonachi.pdb
+F:\My codes\Phibonachi\Phibonachi\obj\Debug\Phibonachi.csprojAssemblyReference.cache
+F:\My codes\Phibonachi\Phibonachi\obj\Debug\Phibonachi.Form1.resources
+F:\My codes\Phibonachi\Phibonachi\obj\Debug\Phibonachi.Properties.Resources.resources
+F:\My codes\Phibonachi\Phibonachi\obj\Debug\Phibonachi.csproj.GenerateResource.cache
+F:\My codes\Phibonachi\Phibonachi\obj\Debug\Phibonachi.csproj.CoreCompileInputs.cache
+F:\My codes\Phibonachi\Phibonachi\obj\Debug\Phibonachi.exe
+F:\My codes\Phibonachi\Phibonachi\obj\Debug\Phibonachi.pdb
